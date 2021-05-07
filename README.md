@@ -10,6 +10,7 @@ Three versions corresponding to the 3 subfigures in Figure 10 of the publication
 
 ![image](https://user-images.githubusercontent.com/61405744/117419265-a9f0ae80-af1c-11eb-8843-a0387aa609f4.png)
 
+All scenes have a vertical exaggeration of 3x. 
 
 ## Scene contents
 These scenes all contain 5 to 6 objects in them: 
@@ -22,12 +23,14 @@ These scenes all contain 5 to 6 objects in them:
 
 ### Legends
 The sediment maps are coloured using this legend, similar to Figure 1 of our publication:
+
 ![image](https://user-images.githubusercontent.com/61405744/117419307-b4ab4380-af1c-11eb-9cd4-36e5134b9ad2.png)
 
-The boreholes are coloured according to the following colorscheme. Note that 
+The boreholes are coloured according to the following colorscheme. Note that interpretations are the manual interpretations done by humans where available; otherwise, they are the automated interpretation performed by a random forest classifier trained on lab samples and the human interpretations. See section 2.4.2 of our publication for a description of that classifier. 
+
 ![image](https://user-images.githubusercontent.com/61405744/117419326-bb39bb00-af1c-11eb-84db-ad29eae860bb.png)
 
-All scenes have a vertical exaggeration of 3x. 
+
 
 ## How to open
 The files herein can be opened in any GLTF viewer, but we recommend https://sandbox.babylonjs.com/. With this free online viewer, you can drag in and drop a GLTF file, navigate in 3D, toggle the visibility of layers, and adjust the transparency of each object's texture:
