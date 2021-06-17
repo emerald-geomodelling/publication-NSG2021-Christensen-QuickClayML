@@ -1,7 +1,9 @@
 # NSG2021_QuickClayPublication
 
 ## Overview
-This repository is an area for storing and sharing supplementary materials related to a publication submitted to Near Surface Geophysics on using AEM, geotechnical data, and machine learning to model occurences of sensitive glaciomarine clay. The main things we share are example 3D models of our results discussed in the publication. 
+This repository is an area for storing and sharing supplementary materials related to a publication submitted to Near Surface Geophysics on using AEM, geotechnical data, and machine learning to model occurences of sensitive glaciomarine clay. The main things we share are example 3D models of our results discussed in the publication. See this link: 
+
+https://doi.org/10.1002/nsg.12166
 
 Three versions corresponding to the 3 subfigures in Figure 10 of the publication: 
 1. Where 10 boreholes are used as training, and only spatial attributes (i.e., horizontal and vertical coordinates) are used for making predictions 
